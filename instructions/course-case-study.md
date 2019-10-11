@@ -2,7 +2,7 @@
 
 AdventureWorks sells bicycles and bicycle parts directly to customers and distributors. The company currently has a single office in the Netherlands, and have been selling bicycles in the United States, Germany and Spain through a chain of distributors and through online sales on its website. The fulfillment of delivery is done by local distribution centers.
 
-The company is planning to expand by establishing new offices because the sales growth in these countries has been increasing over the last 3 years. The location are:
+The company is planning to expand by establishing new offices because the sales growth in these countries has been increasing over the last 3 years. **The location are:** (3 regions over the world)
 
 - Tokyo, Japan
 - Seattle, USA
@@ -15,7 +15,7 @@ In a highly competitive market, in which AdventureWorks has been in business for
 
 The Research and Development department of AdventureWorks has successfully conceived the next wave of innovative products, and they are relying on Data Engineers, AI Engineers and Data Scientists to assist with both the design and implementation of the solution.
 
-Given the increased level of sales and expansion at global scale, the existing data infrastructure won't meet the overall business requirements or the future growth that AdventureWorks aspires to. The Chief Information and Technology Officers have expressed the desire to abandon existing on-premises systems and move to the cloud to meet the growth expected. This is supported by the CFO as there has been a request for replacement hardware as the existing infrastructure comes to its end of life. The CFO is aware that the cloud could offer alternatives that are more cost efficient.
+**Given the increased level of sales and expansion at global scale**, the existing data infrastructure won't meet the overall business requirements or the future growth that AdventureWorks aspires to. The Chief Information and Technology Officers have expressed the desire to abandon existing on-premises systems and **move to the cloud** to meet the growth expected. This is supported by the CFO as there has been a request for replacement hardware as the existing infrastructure comes to its end of life. The CFO is aware that the cloud could offer alternatives that are more cost efficient.
 
 As a Senior Data Engineer, you will assist AdventureWorks in the solution design and implementation to meet the business, functional and technical requirements that the company has set forth to be successful for growth, expansion, and innovation strategies. You will execute this in a way that minimizes operational costs and can be monitored for effectiveness.
 
@@ -23,7 +23,7 @@ In a discovery workshop you ascertained the following information:
 
 ## AdventureWorks Website
 
-The web developers at AdventureWorks are transferring the existing website from an on-premises instance of IIS, to an Azure Web App. They have requested that a data store is made available that will hold the images of the products that are sold on the website.
+The web developers at AdventureWorks are transferring the existing website from an on-premises instance of IIS, to an Azure Web App. **They have requested that a data store is made available that will hold the images of the products that are sold on the website.**
 
 ## Current Sales / Ordering system 
 
@@ -31,7 +31,7 @@ The current software on which bicycle purchases are tracked, is a web-based appl
 
 ## Data Analysis
 
-The business reporting is currently being provided by a single on-premises database that is configured as a data warehouse, it holds a database named AdventureWorksDW which is used to provide historical reporting and descriptive analytics. In recent times, that server has been struggling to process the reporting data in a timely manner, as a result the organization has evaluated the data warehouse capabilities of Azure SQL Data Warehouse and want to migrate their on-premises data to this platform. Your team should ensure that access to the data is restricted.
+The business reporting is currently being provided by a single on-premises database that is configured as a data warehouse, it holds a database named AdventureWorksDW which is used to provide historical reporting and descriptive analytics. In recent times, that server has been struggling to process the reporting data in a timely manner, as a result the organization has evaluated the data warehouse capabilities of Azure SQL Data Warehouse and want to migrate their on-premises data to this platform. **Your team should ensure that access to the data is restricted.**
 
 In addition, AdventureWorks would like to take their data analytics further and start to utilize predictive analytics capabilities. This is currently not an activity that is undertaken. The organization understands that a recommendation or a text analytics engine could be built and would like you to direct them on what would be the best technology and approach to take in implementing such a solution that is also resilient and performant.
 
